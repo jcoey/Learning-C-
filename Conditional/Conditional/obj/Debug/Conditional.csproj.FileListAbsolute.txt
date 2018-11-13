@@ -1,0 +1,7 @@
+E:\projects\Basics\Conditional\Conditional\bin\Debug\Conditional.exe.config
+E:\projects\Basics\Conditional\Conditional\bin\Debug\Conditional.exe
+E:\projects\Basics\Conditional\Conditional\bin\Debug\Conditional.pdb
+E:\projects\Basics\Conditional\Conditional\obj\Debug\Conditional.csproj.CoreCompileInputs.cache
+E:\projects\Basics\Conditional\Conditional\obj\Debug\Conditional.exe
+E:\projects\Basics\Conditional\Conditional\obj\Debug\Conditional.pdb
+E:\projects\Basics\Conditional\Conditional\obj\Debug\Conditional.csprojAssemblyReference.cache

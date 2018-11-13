@@ -1,0 +1,6 @@
+E:\projects\Basics\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+E:\projects\Basics\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+E:\projects\Basics\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+E:\projects\Basics\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+E:\projects\Basics\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+E:\projects\Basics\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb

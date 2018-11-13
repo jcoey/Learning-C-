@@ -1,0 +1,7 @@
+E:\projects\Basics\CSharpMethod\CSharpMethod\bin\Debug\CSharpMethod.exe.config
+E:\projects\Basics\CSharpMethod\CSharpMethod\bin\Debug\CSharpMethod.exe
+E:\projects\Basics\CSharpMethod\CSharpMethod\bin\Debug\CSharpMethod.pdb
+E:\projects\Basics\CSharpMethod\CSharpMethod\obj\Debug\CSharpMethod.csprojAssemblyReference.cache
+E:\projects\Basics\CSharpMethod\CSharpMethod\obj\Debug\CSharpMethod.csproj.CoreCompileInputs.cache
+E:\projects\Basics\CSharpMethod\CSharpMethod\obj\Debug\CSharpMethod.exe
+E:\projects\Basics\CSharpMethod\CSharpMethod\obj\Debug\CSharpMethod.pdb

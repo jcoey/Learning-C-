@@ -1,0 +1,7 @@
+E:\projects\Basics\Namespaces\Namespaces\obj\Debug\Namespaces.csprojAssemblyReference.cache
+E:\projects\Basics\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+E:\projects\Basics\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+E:\projects\Basics\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+E:\projects\Basics\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+E:\projects\Basics\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+E:\projects\Basics\Namespaces\Namespaces\obj\Debug\Namespaces.pdb
